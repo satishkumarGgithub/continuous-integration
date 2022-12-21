@@ -1,1 +1,4 @@
-integration
+continuous integration
+ide-github
+git
+git
