@@ -7,3 +7,10 @@ jenkins
 aws code star
 aws codepipeline
 microsoft azure
+
+contianer
+docker
+
+container orchastration
+swarm 
+kubernetees
