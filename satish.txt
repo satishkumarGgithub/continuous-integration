@@ -2,3 +2,8 @@ continuous integration
 ide-github
 ide - visual studio
 
+continuous integration , continuous delivery/deployment
+jenkins
+aws code star
+aws codepipeline
+microsoft azure
